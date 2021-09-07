@@ -25,4 +25,3 @@ export default class Buttonchange1 extends Component {
     );
   }
 }
-
